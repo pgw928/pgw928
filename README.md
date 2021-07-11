@@ -6,7 +6,7 @@
 <div style="text-align: center">💻Technology Stack </div>
 #### <center>💻Technology Stack</center>  
 
-<center>가운데 정렬</center>
+<center> 가운데 정렬 </center>
 
 
 
