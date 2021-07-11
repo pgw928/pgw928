@@ -1,11 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=BEDAEE&height=200&section=header&text=꾸준,%20성장,%20개발&fontSize=75&fontColor=FFFFFF)
 
+<h3 align="center"> 👋🏻 Hi, there 👋🏻 </h3>
+<h4 align="center"> I'm Keunung Park.😃 </h4>
+<br>
+<br>
 
-
-<h3 align="center"> 👋 Hi there 👋 </h3>
-<br>
-<br>
-<br>
 <h3 align="center">💻 Technology Stack 💻</h3>
 <p align="center">
     <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/>&nbsp
@@ -23,14 +22,13 @@
     <img alt="Tableau" src ="https://img.shields.io/badge/Tableau-E97627.svg?&style=for-the-badge&logo=Tableau&logoColor=white"/>
     <img alt="Selenium" src ="https://img.shields.io/badge/Selenium-43B02A.svg?&style=for-the-badge&logo=Selenium&logoColor=white"/>
 </p>
-<br>
-<br>
-<br>
+<br><br>
+
+
 
 <h3 align="center">✍🏻 Major ✍🏻</h3>
 
 #### <p align="center">🎓 Bachelor - ♾️ Mathmatics </p>
-
 #### <p align="center">🎓 Master - 🔢 Numerical Analysis(Finite element method) </p>
 
 
