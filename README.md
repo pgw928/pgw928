@@ -21,6 +21,8 @@
     <br>
     <img alt="Tableau" src ="https://img.shields.io/badge/Tableau-E97627.svg?&style=for-the-badge&logo=Tableau&logoColor=white"/>
     <img alt="Selenium" src ="https://img.shields.io/badge/Selenium-43B02A.svg?&style=for-the-badge&logo=Selenium&logoColor=white"/>
+    <img alt="R" src ="https://img.shields.io/badge/R-276DC3.svg?&style=for-the-badge&logo=Selenium&logoColor=white"/>
+
 </p>
 <br><br>
 
@@ -46,6 +48,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- https://simpleicons.org/
 -->
 
 
