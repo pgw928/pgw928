@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&color=BEDAEE&height=200&section=header&text=꾸준,%20성장,%20개발&fontSize=75&fontColor=FFFFFF)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=BEDAEE&height=200&section=header&text=꾸준,%20성장,%20발전&fontSize=75&fontColor=FFFFFF)
 
 <h3 align="center"> 👋🏻 Hi, there 👋🏻 </h3>
 <h4 align="center"> I'm Keunung Park.😃 </h4>
